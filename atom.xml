@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chenyucheng97.github.io</id>
+    <title>友人A</title>
+    <updated>2025-08-06T15:45:17.220Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chenyucheng97.github.io"/>
+    <link rel="self" href="https://chenyucheng97.github.io/atom.xml"/>
+    <subtitle>一期一会</subtitle>
+    <logo>https://chenyucheng97.github.io/images/avatar.png</logo>
+    <icon>https://chenyucheng97.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 友人A</rights>
+    <entry>
+        <title type="html"><![CDATA[好久不见]]></title>
+        <id>https://chenyucheng97.github.io/post/long-time-no-see/</id>
+        <link href="https://chenyucheng97.github.io/post/long-time-no-see/">
+        </link>
+        <updated>2025-08-06T15:21:02.000Z</updated>
+        <content type="html"><![CDATA[<p>自从2023年初在上海经历了几个月的疫情封控，而且还被裁员，在小区房间里无所事事，身体状态似乎也不太乐观，然后好不容易在年底终于找到一份外包的工作，又过了不到半年，来到了现在的公司上班，一切看似又恢复了正常。<br>
+现在的状态就是无休止的加班，好在周末还可以回家看看娃，想躺平，但是还有近百万的房贷要还，于是只能继续选择做牛马。<br>
+最近学了些鸿蒙应用开发，最好年底前能完成一次跳槽吧。<br>
+之前写了一些水文，后面有时间看看能不能恢复出来了。<br>
+后面可能还会再继续写一些水文吧。<br>
+先就这样😘</p>
+]]></content>
+    </entry>
+</feed>
